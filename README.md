@@ -5,7 +5,7 @@
 ## 💻 Project
 
 - Learning ReactJS;
-- Working with dinamic and automatic slider effect.
+- Working with dynamic and automatic slider effect.
 
 <p>&nbsp;&nbsp;</p>
 
